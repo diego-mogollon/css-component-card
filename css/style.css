@@ -13,9 +13,11 @@ body {
   padding-bottom: 200px;
   margin: 0;
   background-color: rgb(240,240,240);
+  color: lightslategrey;
 }
 h1, h2, h3 {
   font-family: "Poppins", "sans-serif";
+  color:lightslategrey;
 }
 
 .text-center {
