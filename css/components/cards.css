@@ -17,6 +17,7 @@
   flex-shrink: 0;
   background-size: cover;
   position: relative;
+  border-radius: 4px;
 }
 
 .card-product-top-image .position-icon {
@@ -42,6 +43,7 @@
   margin: 16px 0;
   object-fit: cover;
   object-position: center;
+  border-radius: 4px;
 }
 
 .card-product-bottom img {
@@ -49,6 +51,7 @@
   flex-grow: 1;
   margin: 0 8px;
   object-fit: cover;
+  border-radius: 4px;
 }
 
 .card-product-bottom img:first-child {
